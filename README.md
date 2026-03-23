@@ -10,7 +10,7 @@ Pandas: Utilizada para a manipulação e análise de estruturas de dados.
 
 Scikit-Learn (Sklearn): Utilizamos especificamente: CountVectorizer Para converter a sopa de metadados textuais em vetores numéricos (Tokenização), e Cosine Similarity: Para realizar o cálculo matemático da distância entre os vetores e identificar os filmes mais próximos entre si.
 
-Ast: Biblioteca nativa do Python utilizada para converter as strings das colunas (que originalmente vêm em formato de lista de dicionários do dataset cru) em objetos Python reais, permitindo extrair os nomes dos atores e diretores.
+Bibliotecas nativas do Python utilizada para converter as strings das colunas (que originalmente vêm em formato de lista).
 
 2. Processo de ETL e Preparação de Dados
 O tratamento dos dados foi realizado em duas etapas principais para garantir a integridade das informações:
