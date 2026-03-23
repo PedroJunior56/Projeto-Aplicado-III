@@ -5,7 +5,6 @@ Projeto de Sistema de Recomendação de Filmes - Projeto Aplicado III
 Este projeto apresenta o desenvolvimento de um sistema de recomendação baseado em conteúdo, focado na análise de metadados para sugerir títulos similares aos usuários. O trabalho foi estruturado em etapas de Extração, Transformação e Carga (ETL) e Modelagem Estatística.
 
 1. Bibliotecas Python Utilizadas
-O projeto foi desenvolvido em Python, utilizando as seguintes bibliotecas:
 
 Pandas: Utilizada para a manipulação e análise de estruturas de dados. 
 
