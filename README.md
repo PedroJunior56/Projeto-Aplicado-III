@@ -1,6 +1,8 @@
 # Projeto-Aplicado-III
 Repositório para execução do Projeto Aplicado III
 
+-> Link para apresentação no YouTube: https://youtu.be/JXoVLMhXFbY
+
 Este projeto apresenta o desenvolvimento de um sistema de recomendação baseado em conteúdo, focado na análise de metadados para sugerir títulos similares aos usuários. O trabalho foi estruturado em etapas de Extração, Transformação e Carga (ETL) e Modelagem Estatística.
 
 1. Processo de ETL e Preparação de Dados
